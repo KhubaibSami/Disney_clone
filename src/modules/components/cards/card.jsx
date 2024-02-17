@@ -1,7 +1,7 @@
 import React from "react";
 import disney from "./../../../assets/Videos/disney.mp4";
 import marvel from "./../../../assets/Videos/marvel.mp4";
-import pixar from "./../../../assets/videos/pixar.mp4";
+import pixar from "./../../../assets/Videos/pixar.mp4";
 import geographic from "./../../../assets/Videos/national-geographic.mp4";
 import star from "./../../../assets/Videos/star-wars.mp4";
 
