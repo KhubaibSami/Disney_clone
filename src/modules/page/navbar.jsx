@@ -1,10 +1,14 @@
-import React from 'react'
-import Header from "./../Navbar/components/header/header";
+import React from "react";
+import Header from "./../components/Navbar/header/header";
+import Slider from "../components/services/slider";
 
-const Navbar = () => {
+const LandingPAge = () => {
   return (
-    <div> <Header /> </div>
-  )
-}
+    <div>
+      <Header />
+      <Slider />
+    </div>
+  );
+};
 
-export default Navbar
+export default LandingPAge;
